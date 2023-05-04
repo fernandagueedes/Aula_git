@@ -4,7 +4,6 @@
 
 estou no novo ramo (branch)
 
-alteração feita localmente  
-alteração feita no github
+alteração feita localmente
 
-alteração a ser desfeita
+alteração feita no github
